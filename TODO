@@ -1,0 +1,2 @@
+* use hiera.yml when doing puppet apply (--config puppet/config/hiera.yaml)
+* Install puppet from package manager first if available
