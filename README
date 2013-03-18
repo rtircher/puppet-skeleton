@@ -1,0 +1,5 @@
+Skeletton project for a puppet based automated environment provisioning/deployment
+
+## Puppet Templates
+
+These files are located under modules/.../templates.  They are erb files that can be used in the puppet classes to setup files using custom variables.
