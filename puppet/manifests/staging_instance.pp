@@ -1,0 +1,1 @@
+include tircher::staging::instance
